@@ -302,6 +302,15 @@ button.button-link {
     transition: all .3s ease;
 }
 
+.navigation-list li a:hover {
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #EE9F2A;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: all .3s ease;
+}
+
 #header-wrap:before {
     content: '';
     position: absolute;
