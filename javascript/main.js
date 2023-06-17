@@ -53,6 +53,7 @@ $(document).ready(function() {
         lazyLoad: false,
         margin: 50,
         autoplay: false,
+        mouseDrag: false,
         dots: true,
         slideSpeed: 200,
         autoplayTimeout: 7000,
